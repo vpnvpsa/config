@@ -1,0 +1,57 @@
+{
+  "ads": "true",
+ 
+  "blocked": [
+    {
+      "id": 0,
+      "app": "com.android.game"
+    },
+    {
+      "id": 1,
+      "app": "com.utorrent.client"
+    },
+    {
+      "id": 2,
+      "app": "com.torrent.client"
+    },
+    {
+      "id": 3,
+      "app": "com.tor.client"
+    },
+    {
+      "id": 4,
+      "app": "com.insta.client"
+    },
+    {
+      "id": 5,
+      "app": "com.facebook.client"
+    },
+    {
+      "id": 6,
+      "app": "com.get.client"
+    }
+  ],
+  "free": [
+    {
+      "id": 0,
+      "file": 0,
+      "city": "Fast Server",
+      "country": "Germany",
+      "image": "germany",
+      "ip": "",
+      "active": "true",
+      "signal": "a"
+    },
+
+   
+  ]
+,
+ "update":[{
+    "version":"1.0.0",
+    "title":"A new version of this app is ready",
+    "description":"You can install the new version for free for free",
+    "size":"7 MG",
+"direct":false,
+"link":"https://yahoo.com"
+  }]
+}
